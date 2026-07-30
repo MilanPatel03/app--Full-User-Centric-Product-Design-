@@ -24,8 +24,8 @@ A calm, offline-first Bhagavad Gita reading app built with Flutter. Uses Clean A
 
 | Section | Preview |
 |--------|---------|
-| Till Now (In the process) | <a href="https://vimeo.com/1214180029?share=copy&fl=sv&fe=ci"><img src="assets/homepageImage.jpg" width="220"/></a> |
-| Preview the Prototype On Stitch | <a href= "https://stitch.withgoogle.com/preview/10067144196159841889?node-id=58a774df3d3f4a709e5db87c82cb50b7"><img src="assets/homepageImage.jpg"  width="220"/> </a> |
+| Till Now (In the process) | <a href="https://vimeo.com/1214180029?share=copy&fl=sv&fe=ci"><img src="assets/till_now-g-readme.jpg" width="220"/></a> |
+| Preview the Prototype On Stitch | <a href= "https://stitch.withgoogle.com/preview/10067144196159841889?node-id=58a774df3d3f4a709e5db87c82cb50b7"><img src="assets/prototype-g-readme.png"  width="220"/> </a> |
 
 ## 🌟 About the Project
 
