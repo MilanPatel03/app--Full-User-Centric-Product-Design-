@@ -20,6 +20,13 @@ A calm, offline-first Bhagavad Gita reading app built with Flutter. Uses Clean A
 
 </div>
 
+## 📸 Screenshots / Videos
+
+| Section | Preview |
+|--------|---------|
+| Till Now (In the process) | <a href="https://vimeo.com/1214180029?share=copy&fl=sv&fe=ci"><img src="assets/homepageImage.jpg" width="220"/></a> |
+| Preview the Prototype On Stitch | <a href= "https://stitch.withgoogle.com/preview/10067144196159841889?node-id=58a774df3d3f4a709e5db87c82cb50b7"><img src="assets/homepageImage.jpg"  width="220"/> </a> |
+
 ## 🌟 About the Project
 
 **Shrimad Bhagavad Gita** is a thoughtfully designed mobile app that brings the 18 chapters and 700 verses of the Bhagavad Gita to your fingertips — beautifully, offline, and without compromise.
